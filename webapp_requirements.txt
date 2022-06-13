@@ -1,0 +1,17 @@
+fastapi==0.78.0
+matplotlib==3.5.2
+numpy==1.22.3
+opencv-python==4.5.5.64
+Pillow==9.1.0
+pybase64==1.2.1
+pydantic==1.9.0
+pytorch-lightning==1.6.3
+regex==2022.4.24
+timm>=0.4
+torch==1.11.0
+torchmetrics==0.8.2
+tqdm==4.64.0
+uvicorn==0.17.6
+
+
+
